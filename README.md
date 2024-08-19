@@ -11,7 +11,7 @@ you as you work through each task described below.
 3. Type `npm install` to install the tests
 4. Type `npm test` to run the tests
 
-## Tips on how to work thrugh this practice
+## Tips on how to work through this practice
 
 This practice starter includes a (slightly incomplete) command line game that
 you play by interacting with prompts in the terminal. First, run the game with
